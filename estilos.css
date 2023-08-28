@@ -67,6 +67,7 @@ main {
 }
 
 .card button {
+    font-family: Oswald;
     background-color: rgb(181, 193, 216);
     color:black;
     border: none;
